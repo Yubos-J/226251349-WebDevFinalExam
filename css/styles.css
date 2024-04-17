@@ -12,6 +12,13 @@ nav{
 
 }
 
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 0px;
+
+}
+
 main{
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
